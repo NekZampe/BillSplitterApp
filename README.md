@@ -10,8 +10,6 @@ Welcome to the .NET MAUI Bill Splitting Calculator! This intuitive app streamlin
 
 - **Instant Updates:** Stay informed as you make changes, ensuring accuracy and fairness.
 
-This app was developed with a commitment to user-friendly bill splitting. 
-
-Make bill splitting with friends a breeze with the .NET MAUI Bill Splitting Calculator. Download now and simplify your financial transactions!
+![BillSplitSC](https://github.com/NekZampe/BillSplitterApp/assets/127551641/af471c90-92b9-4006-9e85-3a77d5bd0cb1)
 
 The app was crafted based on insights and knowledge obtained from Héctor Uriel Pérez, an accomplished Microsoft MVP, from his .NET MAUI development course on Udemy.
