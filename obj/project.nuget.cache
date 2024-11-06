@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "duviAZv3mSo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nektarios\\source\\repos\\PerfectPay\\PerfectPay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nektarios\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.43\\microsoft.windows.sdk.net.ref.10.0.19041.43.nupkg.sha512"
+  ],
+  "logs": []
+}
